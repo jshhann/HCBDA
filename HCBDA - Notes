@@ -45,3 +45,12 @@ Break
 Big steps are unwieldy beasts that hide assumptions and details. When you find yourself wanting to add details to a step to clarify it, it’s often wiser to split the step into smaller ones. Take the make smoothie from the example in the previous section. Unless everyone knows exactly how to make the smoothie you have in mind, you’re better off dividing it up into smaller steps.
 4. Pen and PaperCards
 When you’re clear on the steps and the value they bring in solving the problem you started with, you’re ready to write out the user stories. One story for each step. Writing stories on cards, one per card, makes stories more tangible. You can manipulate cards directly: move them around on a table or a board. And that is still the easiest way of prioritizing and scheduling.
+
+GOOD USER STORY:
+INVEST
+Independent -> Can be developed in any order.
+Negotiable -> Open the conversation.
+Valuable -> Value added to the product.
+Estimable -> Relative sizing.
+Small -> To be completed fast.
+Testable -> Must be validated.
