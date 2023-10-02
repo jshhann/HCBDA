@@ -1,0 +1,47 @@
+What is a User Story?
+A user story is a short, simple description of a feature told from the perspective of the person who desires the new capability, usually a user or customer of the system. 
+
+What is an Agile User Story?
+In Agile a user story is a short, informal, plain language description of what a user wants to do within a software product to gain something they find valuable.
+User stories typically follow the role-feature-benefit pattern (or template):
+As a [type of user],
+I want [an action]
+so that [a benefit/value]
+
+Advantages of User Stories:
+With user stories you give a development team the context and the why of what they’re creating. Doing so helps them understand how they’re providing value for the business and to keep the user/customer top of mind.
+
+The Cs in User Stories?
+Card: Written description of the story, used for planning and as a reminder
+Conversation: Conversations about the story that serve to flesh out the details of the story
+Confirmation: Tests that convey and document details that can be used to determine when a story is complete.
+
+How to Write a User Story?
+How to Write a User Story in 4 Simple Steps
+Writing User Story
+1. Start at the End
+Agile development is all about delivering valuable software that satisfies customers’ needs. So that’s where you begin: the end goal, or value, a user is looking for. It can help to think of it in terms of the problem s/he is looking to solve.
+2. Work Backward
+With the user and the end goal clearly in mind, you work out the steps a user would need to take to achieve their goal.
+Trying to figure out the first step forward to reach a goal is difficult. You simply have too many options to pick from and no way to choose one over the other.
+The way out is to work backward from the goal.
+Let’s say your goal is to enjoy a strawberry smoothie. So you start there: a finished strawberry smoothie, ready for you to enjoy.
+What do you need for that? Well obviously a glass, a straw, a smoothie, and putting the things together.
+get a glass
+get a thick straw
+make the smoothie
+pour the smoothie into the glass
+stick the straw into the smoothie
+You have a suitable glass, but lack thick straws, so
+You have a suitable glass, but lack thick straws, so
+You’ve never made a smoothie, but you know you need a blender, so
+take out the blender
+follow a recipe
+To follow a recipe, you need to
+find a recipe
+buy the ingredients specified in the recipe
+3. Small Is Beautiful
+Break
+Big steps are unwieldy beasts that hide assumptions and details. When you find yourself wanting to add details to a step to clarify it, it’s often wiser to split the step into smaller ones. Take the make smoothie from the example in the previous section. Unless everyone knows exactly how to make the smoothie you have in mind, you’re better off dividing it up into smaller steps.
+4. Pen and PaperCards
+When you’re clear on the steps and the value they bring in solving the problem you started with, you’re ready to write out the user stories. One story for each step. Writing stories on cards, one per card, makes stories more tangible. You can manipulate cards directly: move them around on a table or a board. And that is still the easiest way of prioritizing and scheduling.
