@@ -15,10 +15,12 @@
 * Are there any deadlines that you are trying to meet that will affect this project?
 * Are there any dashboards standards in place, such as colour scheme or size?
 * Should one data source be prioritized over another data source?
+
 | Questions| Answers   |  Responsible Party | Priority | 
 |   ---      | ---       |       ---          | ---       |
 |   ---      | ---       |       ---          | ---       |
 |   ---      | ---       |       ---          | ---       |
+
 ## Prioritize Requirements
 ***The MoScoW Method***
 * Must (Mandatory)
